@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.products, .cart {
+  width: 45%;
+}
+.product, .cart-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+button {
+  margin-top: 10px;
+}
